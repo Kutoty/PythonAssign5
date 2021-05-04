@@ -1,0 +1,157 @@
+kutoty@MyYard:~/Documents/Python$ /usr/bin/python3.8 /home/kutoty/Documents/Python/PythonAssign5.py
+Conversion Assignment for KISIO FRANCIS
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+P
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+C
+Enter the degrees celsius you want to convert: 34
+Option: C
+Temperature in
+                degrees celsius: 34
+                Fahrenheit: 93.20
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+F
+Enter the Fahrenheit value you want to convert: 43
+Option: F
+Temperature in
+                Fahrenheit: 43
+                degrees celsius: 6.11
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+M
+Enter the Miles you want to convert: 234
+Option: M
+Length in
+                Miles: 234
+                Kilometres: 376.59
+                Metres: 376586.50
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+KM
+Enter the Kilometers you want to convert: 45
+Option: KM
+Length in
+                Kilometres: 45
+                Miles: 27.96
+                Metres: 45000.00
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+CM
+Enter the Centimeters you want to convert: 4500
+Option: CM
+Length in
+                Centimeters: 4500
+                Inches: 1771.65
+                Metres: 45.00
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+Y
+Enter the Yards you want to convert: 4500
+Option: Y
+Length in
+                Yards: 4500
+                Inches: 162000.00
+                Meters: 41148000.00
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+IN
+Enter the Inches you want to convert: 345
+Option: Y
+Length in
+                Inches: 345
+                        Centimeters: 876.30
+
+
+Select one of the following
+[P]             Print Options
+[C]             Convert from Celsius
+[F]             Convert from Fahrenheit
+[M]             Convert from Miles
+[KM]    Convert from Kilometers
+[CM]    Convert from Centimeters
+[Y]             Convert from Yards
+[IN]    Convert from Inches
+[Q]             Quit
+Q
+
+Option: Q
+Quit
